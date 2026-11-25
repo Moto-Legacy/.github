@@ -11,7 +11,7 @@ what those kernels lack.
 | Device | Codename | SoC | Kernel | LineageOS | Status |
 | --- | --- | --- | --- | --- | --- |
 | Moto G (2013) | `falcon` | MSM8226 | 3.4 | 23.2 (Android 16) | Boots to the setup wizard and Settings, adb (root) |
-| Moto G LTE (2013) | `peregrine` | MSM8226 | 3.4 | 23.2 (Android 16) | Same tree as falcon |
+| Moto G LTE (2013) | `peregrine` | MSM8226 | 3.4 | 23.2 (Android 16) | Same tree as falcon; retrofit dynamic partitions not tested on a device yet |
 
 Not daily driver material yet: the UI is slow and the radio, camera and compass
 still don't work.
