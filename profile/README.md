@@ -27,6 +27,7 @@ still don't work.
 | [`android_device_motorola_peregrine`](https://github.com/Moto-Legacy/android_device_motorola_peregrine) | Moto G LTE device tree |
 | [`android_kernel_motorola_msm8226`](https://github.com/Moto-Legacy/android_kernel_motorola_msm8226) | Linux 3.4 kernel for MSM8226 Motorola devices |
 | [`proprietary_vendor_motorola`](https://github.com/Moto-Legacy/proprietary_vendor_motorola) | Proprietary files |
+| [`twrp-super`](https://github.com/Moto-Legacy/twrp-super) | Makes the official TWRP find the retrofit `super` partition, to install the ROMs |
 
 ## Building
 
